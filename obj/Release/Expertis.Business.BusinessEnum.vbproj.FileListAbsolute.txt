@@ -1,0 +1,10 @@
+C:\Builds\2\Producto\Expertis50R2_Release\bin\Release\Expertis.Business.BusinessEnum.dll
+C:\Builds\2\Producto\Expertis50R2_Release\bin\Release\Expertis.Business.BusinessEnum.pdb
+C:\Builds\2\Producto\Expertis50R2_Release\src\Main\Source\Business\Expertis.Business.BusinessEnum\obj\Release\ResolveAssemblyReference.cache
+C:\Builds\2\Producto\Expertis50R2_Release\src\Main\Source\Business\Expertis.Business.BusinessEnum\obj\Release\Expertis.Business.BusinessEnum.dll
+C:\Builds\2\Producto\Expertis50R2_Release\src\Main\Source\Business\Expertis.Business.BusinessEnum\obj\Release\Expertis.Business.BusinessEnum.pdb
+C:\ExpertisNet50R2test\Bin\Expertis.Business.BusinessEnum.dll
+C:\ExpertisNet50R2test\Bin\Expertis.Business.BusinessEnum.pdb
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\BusinessSergio\Expertis.Business.BusinessEnum\obj\Release\ResolveAssemblyReference.cache
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\BusinessSergio\Expertis.Business.BusinessEnum\obj\Release\Expertis.Business.BusinessEnum.dll
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\BusinessSergio\Expertis.Business.BusinessEnum\obj\Release\Expertis.Business.BusinessEnum.pdb
