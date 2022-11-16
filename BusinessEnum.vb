@@ -910,6 +910,13 @@ Public Enum enumocEstado
     ocTerminado = 2
 End Enum
 
+'David Velasco 11/11/22
+Public Enum EstructuraFerralla
+    Pos = 0
+    Zuncho = 1
+    Muro = 2
+End Enum
+
 Public Enum enumTipoObra
     tpObra = 0
     tpalquiler = 1
