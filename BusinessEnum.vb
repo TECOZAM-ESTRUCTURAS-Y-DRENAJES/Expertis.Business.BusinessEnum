@@ -915,6 +915,8 @@ Public Enum EstructuraFerralla
     Pos = 0
     Zuncho = 1
     Muro = 2
+    'Prueba
+    PosExtremos = 3
 End Enum
 
 Public Enum enumTipoObra
