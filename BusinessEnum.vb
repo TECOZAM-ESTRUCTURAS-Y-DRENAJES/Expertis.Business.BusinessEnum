@@ -903,11 +903,27 @@ Public Enum enumiaAfectaFactura
     iaPositivo = 1
     iaNoAfecta = 2
 End Enum
-
+'DAVID VELASCO 16/10/2024
+'AÑADO NUEVOS ESTADOS PARA EL CAMBIO DE MEDICIONES
+'ANTIGUO (0 = PROYECTADO, 1 = ACTIVA, 2 = TERMINADO)
+'-------
+'ocProyectado = 0
+'ocComenzado = 1
+'ocTerminado = 2
+'NUEVO(0 = No iniciada, 1 = Activa, 2 = Terminada, 3 = Parada, 4 = Liquidación)
+'-------
+'ocProyectado = 0
+'ocComenzado = 1
+'ocTerminada = 2
+'ocTerminado = 3
+'ocLiquidacion = 4
+'EL VALOR QUE SE VE SE CAMBIA DESDE TRADUCCION EN EL MANAGER
 Public Enum enumocEstado
     ocProyectado = 0
     ocComenzado = 1
     ocTerminado = 2
+    ocParada = 3
+    ocLiquidacion = 4
 End Enum
 
 'David Velasco 11/11/22

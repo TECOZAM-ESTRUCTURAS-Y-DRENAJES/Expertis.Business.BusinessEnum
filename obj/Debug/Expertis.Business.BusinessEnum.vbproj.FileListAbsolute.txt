@@ -3,3 +3,8 @@ C:\Users\lgonzalez\Desktop\EXPERTIS\Bin\Expertis.Business.BusinessEnum.pdb
 C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\BusinessSergio\Expertis.Business.BusinessEnum\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\BusinessSergio\Expertis.Business.BusinessEnum\obj\Debug\Expertis.Business.BusinessEnum.dll
 C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\BusinessSergio\Expertis.Business.BusinessEnum\obj\Debug\Expertis.Business.BusinessEnum.pdb
+C:\Users\dvelasco\Bin\Expertis.Business.BusinessEnum.dll
+C:\Users\dvelasco\Bin\Expertis.Business.BusinessEnum.pdb
+C:\Users\dvelasco\Desktop\FuentesExpertis\Business\Expertis.Business.BusinessEnum\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dvelasco\Desktop\FuentesExpertis\Business\Expertis.Business.BusinessEnum\obj\Debug\Expertis.Business.BusinessEnum.dll
+C:\Users\dvelasco\Desktop\FuentesExpertis\Business\Expertis.Business.BusinessEnum\obj\Debug\Expertis.Business.BusinessEnum.pdb
